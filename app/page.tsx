@@ -130,7 +130,7 @@ const DiscordJoinPopup = ({
   if (!isVisible) return null
 
   const handleJoinDiscord = () => {
-    window.open("https://discord.gg/Xn4Bnw4pJQ", "_blank")
+    window.open("https://discord.gg/23d7f7KT2x", "_blank")
     onClose()
   }
 

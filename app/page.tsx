@@ -206,7 +206,7 @@ const DiscordJoinPopup = ({
             </Button>
           </div>
 
-          <p className="text-xs text-gray-500">discord.gg/Xn4Bnw4pJQ</p>
+          <p className="text-xs text-gray-500">https://discord.gg/23d7f7KT2x</p>
         </div>
       </div>
     </div>
